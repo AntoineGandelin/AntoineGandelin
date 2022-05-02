@@ -1,7 +1,7 @@
 <h1 align="center">Welcome on my GitHub 👋</h1>
 
 <p align="center">
-  <a href="https://ark4nix.github.io/portfolio/">Portfolio</a> •
+  <a href="https://antoinegandelin.github.io/portfolio/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/antoine-gandelin-11a755209/">Linkedin</a>
 </p>
 

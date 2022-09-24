@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/antoine-gandelin-11a755209/">Linkedin</a>
 </p>
 
-I'm an __IT Student__ based in __France__. I love coding and learning web development. I'm ready to realize your new projects, etc.
+I'm a __Student in digital communication__ based in __France__. I love the digital and learning more other things around this field. I'm ready to realize your new projects, etc.
 
-* 💼 Currently working at [BTS SIO](http://www.sio-reims.fr) in Reims <br/>
+* 💼 Currently working at [ESUPCOM](https://www.esupcom.com/) in Reims <br/>
 * 🔖 Discover my [Curriculum Vitae](https://ark4nix.github.io/portfolio/ressources/cv_antoine_gandelin.pdf)<br/>
 * 📫 [Contact me](mailto:antoine.gandelin@gmail.com)
 

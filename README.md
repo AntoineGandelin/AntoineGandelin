@@ -7,7 +7,7 @@
 
 I'm a __Student in digital communication__ based in __France__. I love the digital and learning more other things around this field. I'm ready to realize your new projects, etc.
 
-* 💼 Currently working at [ESUPCOM](https://www.esupcom.com/) in Reims <br/>
+* 💼 Currently working at [Université catholique de Lille](https://www.univ-catholille.fr/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://antoinegandelin.github.io/portfolio/ressources/cv_antoine_gandelin.pdf)<br/>
 * 📫 [Contact me](mailto:antoine.gandelin@gmail.com)
 
